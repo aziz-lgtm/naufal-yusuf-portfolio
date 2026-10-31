@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Naufal Yusuf",
-  description: "| Software Engineer",
+  title: "Naufal Yusuf | Software Engineer",
+  description: "A hub about me and what i had been done in the work world",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
